@@ -1,0 +1,2 @@
+#define configSUBFRAME_COUNT_PER_MAJOR 2
+#define configSUBFRAME_DURATION pdMS_TO_TICKS(20)
