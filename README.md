@@ -324,10 +324,10 @@ For support or questions, please use direct communication with the project autho
 For support regarding usage details, please refer to the full documentation provided within the repository.
 
 ## Authors
-- Stefano Falcetta (s348753)
-- Cristian Sapia (s349451)
-- Stefano Calandrella (s362143)
-- Mattia Rabezzana (s358702)
+- Stefano Falcetta
+- Cristian Sapia
+- Stefano Calandrella
+- Mattia Rabezzana
 
 ## License
 This project is released under the **MIT License**.
